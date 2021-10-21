@@ -1,0 +1,30 @@
+
+    
+[
+    {   "name": "Nước ngọt",      "price": 10000 , "check": false , "total": 0    },
+
+    {   "name": "Cà phê đá",      "price": 12000 , "check": false , "total": 0       },
+
+    {   "name": "Cà phê nóng",    "price": 12000  , "check": false , "total": 0      },
+
+    {   "name": "Thuốc lá",       "price": 18000  , "check": false , "total": 0      },
+
+    {   "name": "Trà đá",         "price":  2000  , "check": false , "total": 0      },
+
+    {   "name": "Trà sữa",        "price": 25000 , "check": false  , "total": 0      },
+
+    {   "name": "Trà sữa đường đen","price": 25000 , "check": false  , "total": 0    },
+
+    {   "name": "Trà sữa trân châu","price": 25000 , "check": false , "total": 0      },
+
+    {   "name": "Nước suối",      "price":  5000 , "check": false   , "total": 0     },
+
+    {   "name": "Cà phê sữa đá",  "price": 30000 , "check": false  , "total": 0       },
+
+    {   "name": "Cà phê sữa nóng","price": 30000  , "check": false , "total": 0      }
+]
+
+      
+
+
+

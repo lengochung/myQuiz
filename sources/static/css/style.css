@@ -1,0 +1,52 @@
+#centerbar{
+    background:grey;
+    width: 100%;
+    display: block;
+    height: 45px;
+    margin-top: 0;
+    padding-top: 5px;
+    display: none;
+}
+#centerbar ul li {
+    list-style-type: none;
+    float: left;
+    width: 25%;
+    text-align: left;
+}
+#centerbar ul li a {
+    line-height: 34px;
+    color: white;  
+}
+#confirm:hover{
+    text-decoration: none;
+}
+
+#sidebar{
+    
+}
+
+#online {
+    z-index: 1000;
+    position: fixed;
+    bottom: 0;
+}
+
+#nof_load_assign {
+    z-index: 1000;
+    position: fixed;
+    bottom: 0; right: 0;
+    /* background: grey; */
+}
+
+#countdown_assigns {
+    width: auto; line-height: 30px; font-size: 30px; 
+    z-index: 1000;
+    position: fixed;
+    right: 0;
+    bottom: 35px;
+    text-align: right;
+    
+}
+
+
+
